@@ -242,7 +242,7 @@
   
   /* About Section*/
   .about {
-    margin: 12.5rem 0;
+    margin: 0 0 12.5rem 0;
     display: flex;
     flex-direction: column;
     align-items: center;
