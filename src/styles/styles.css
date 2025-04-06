@@ -368,6 +368,10 @@
     .text-normal {
       font-size: 1.5rem;
     }
+
+    .hero {
+        min-height: 80vh;
+    }
   
     .about-bio {
       width: 100%;
