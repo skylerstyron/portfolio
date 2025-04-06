@@ -370,7 +370,8 @@
     }
 
     .hero {
-        min-height: 80vh;
+        min-height: 20vh;
+        height: 60vh;
     }
   
     .about-bio {
